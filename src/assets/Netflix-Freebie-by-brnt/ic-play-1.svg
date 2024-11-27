@@ -1,0 +1,16 @@
+<svg width="291" height="291" viewBox="0 0 291 291" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ic-play">
+<g id="Oval 5" filter="url(#filter0_b_0_244)">
+<circle cx="145.5" cy="145.5" r="145.5" fill="#141414" fill-opacity="0.32"/>
+</g>
+<path id="Triangle 1" fill-rule="evenodd" clip-rule="evenodd" d="M114.92 212.334C107.66 216.569 98.543 211.332 98.543 202.928V88.0723C98.543 79.6675 107.66 74.4308 114.92 78.6658L213.367 136.093C220.571 140.296 220.571 150.704 213.367 154.906L114.92 212.334Z" fill="#E50914"/>
+</g>
+<defs>
+<filter id="filter0_b_0_244" x="-8.28227" y="-8.28227" width="307.565" height="307.565" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="1.38038"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_0_244"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_0_244" result="shape"/>
+</filter>
+</defs>
+</svg>

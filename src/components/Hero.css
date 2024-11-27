@@ -1,0 +1,26 @@
+.hero {
+    display: flex;
+    color:white;
+    justify-content: center;
+    align-items:flex-start;
+    position:relative
+   
+}
+
+.narcos{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: -1;
+}
+
+.logoNarcos {
+    width: 344px;
+    height: 94px;
+    }
+
+.description{
+    width: 439px;
+    height: 123px;
+    padding-bottom: 30px;
+}

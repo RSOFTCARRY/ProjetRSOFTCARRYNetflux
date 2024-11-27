@@ -6,6 +6,7 @@ import search from "../assets/search.svg";
 import avatar from "../assets/avatar.png";
 import burger from "../assets/burger.svg";
 
+
 function Navbar() {
   return (
     <header>
